@@ -7,8 +7,8 @@
 
 /*********** WARNING: This is an auto-generated file. Do not edit! ***********/
 
-#ifndef __PSA_MANIFEST_TFM_TEST_CLIENT_SERVICE_H__
-#define __PSA_MANIFEST_TFM_TEST_CLIENT_SERVICE_H__
+#ifndef __PSA_MANIFEST_TFM_SECURE_CLIENT_SERVICE_H__
+#define __PSA_MANIFEST_TFM_SECURE_CLIENT_SERVICE_H__
 
 #ifdef __cplusplus
 extern "C" {
@@ -20,4 +20,4 @@ extern "C" {
 }
 #endif
 
-#endif /* __PSA_MANIFEST_TFM_TEST_CLIENT_SERVICE_H__ */
+#endif /* __PSA_MANIFEST_TFM_SECURE_CLIENT_SERVICE_H__ */

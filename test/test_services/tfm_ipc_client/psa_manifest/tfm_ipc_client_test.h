@@ -7,8 +7,8 @@
 
 /*********** WARNING: This is an auto-generated file. Do not edit! ***********/
 
-#ifndef __PSA_MANIFEST_TFM_IPC_CLIENT_PARTITION_H__
-#define __PSA_MANIFEST_TFM_IPC_CLIENT_PARTITION_H__
+#ifndef __PSA_MANIFEST_TFM_IPC_CLIENT_TEST_H__
+#define __PSA_MANIFEST_TFM_IPC_CLIENT_TEST_H__
 
 #ifdef __cplusplus
 extern "C" {
@@ -24,4 +24,4 @@ extern "C" {
 }
 #endif
 
-#endif /* __PSA_MANIFEST_TFM_IPC_CLIENT_PARTITION_H__ */
+#endif /* __PSA_MANIFEST_TFM_IPC_CLIENT_TEST_H__ */
